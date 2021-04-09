@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  This is a small portfolio website to host some small gifs and pieces of
+  creativity for my workplace.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
